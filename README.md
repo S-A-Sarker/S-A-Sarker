@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him/Sarker
 - ⚡ Fun fact: ... It's very hard for me sitting in computer desk for atleast 12-14 hours.But I Love To do That Everyday.
 -->
+[![Sarker's Code github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/S-A-Sarker/github-readme-stats)
