@@ -11,9 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him/Sarker
 - ⚡ Fun fact: ... It's very hard for me sitting in computer desk for atleast 12-14 hours.But I Love To do That Everyday.
 
-
-[![Sarker's Code github stats](https://github-readme-stats.vercel.app/api?username=S-A-Sarker)](https://github.com/S-A-Sarker/github-readme-stats)
-
-![Sarker's Code stats](https://github-readme-stats.vercel.app/api?username=S-A-Sarker&count_private=true)
-
 ![Sarker's Code github stats](https://github-readme-stats.vercel.app/api?username=S-A-Sarker&show_icons=true)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=S-A-Sarker&repo=github-readme-stats)](https://github.com/S-A-Sarker/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-A-Sarker&layout=compact)](https://github.com/S-A-Sarker/github-readme-stats)
