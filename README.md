@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 [![Sarker's Code github stats](https://github-readme-stats.vercel.app/api?username=S-A-Sarker)](https://github.com/S-A-Sarker/github-readme-stats)
 
 ![Sarker's Code stats](https://github-readme-stats.vercel.app/api?username=S-A-Sarker&count_private=true)
+
+![Sarker's Code github stats](https://github-readme-stats.vercel.app/api?username=S-A-Sarker&show_icons=true)
