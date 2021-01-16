@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Everything About Front End**
 
-- 🤝 I’m looking for help with **AWS**
+- 🤝 I’m looking for help with AWS
 
-- 😄 Pronouns: ... He/Him/Sarker
+- 😄 Pronouns  ... He/Him/Sarker
 
 - 💬 Ask me about **Anything About Front End Web Development**
 
